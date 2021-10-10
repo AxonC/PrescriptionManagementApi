@@ -1,0 +1,2 @@
+[run]
+omit = ./database/*,./unittests/*,*__init__.py
